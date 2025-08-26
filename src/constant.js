@@ -1,0 +1,1 @@
+export const DBNAME = 'video_stream_app'
