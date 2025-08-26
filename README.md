@@ -43,5 +43,4 @@ It provides REST APIs for user authentication, video upload, streaming, likes, c
 
 ---
 
-## 📂 Project Structure
 
